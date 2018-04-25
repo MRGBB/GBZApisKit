@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GBZApisKit_Example' do
+  pod 'GBZApisKit', :path => '../'
+
+  target 'GBZApisKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
