@@ -1,0 +1,30 @@
+{
+  "name": "GBZApisKit",
+  "version": "2",
+  "summary": "A short description of GBZApisKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MRGBB/GBZApisKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MRGBB": "guobb@pifubao.com"
+  },
+  "source": {
+    "git": "https://github.com/MRGBB/GBZApisKit.git",
+    "tag": "2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GBZApisKit/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "FMDB": [
+
+    ]
+  }
+}
